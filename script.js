@@ -50,4 +50,3 @@ function setGameOver() {
   document.body.append(resetButton);
   resetButton.addEventListener('click', resetGame);
 }
-
